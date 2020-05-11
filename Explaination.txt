@@ -1,0 +1,11 @@
+YAML stands for YAML Ain't Markup Language, and this file format technology is used in documents.
+These documents are saved in plain text format and are appended with the .yml extension.
+Efficient data serialization was the main objective of the developers of the .yml format, since it enables users to create .yml files with content independent from any particular markup language.
+
+
+So,the basic rules are :
+
+1. Words written before colon(:) are predefined keywords
+2. Words written after colon(:) are userdefined words
+Ex : in my yml file i have taken 2 images one is of wordpress and the other is mysql
+3. put Hyphen(-) in next line of colon to make an array under that keyword
